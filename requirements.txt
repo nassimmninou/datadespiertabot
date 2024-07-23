@@ -1,3 +1,4 @@
+langchain_openai
 streamlit
 langchain
 upstash_vector
@@ -6,4 +7,3 @@ upstash_vector
 openai
 python-dotenv
 dotenv
-langchain_openai
