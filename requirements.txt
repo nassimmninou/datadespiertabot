@@ -6,4 +6,4 @@ langchain_community
 upstash_vector
 openai
 python-dotenv
-dotenv
+python-dotenv
